@@ -1,6 +1,6 @@
 # [www.lockerless.com - your secret box](https://www.lockerless.com/)
 
-Lockerless is Trusted single-use box for encrypted messages. the motto is: "secret box"
+Lockerless is Trusted single-use box for encrypted messages. the motto is: "Your secret box"
 
 
 ## Mission
