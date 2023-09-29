@@ -34,6 +34,9 @@ Continually improve the user experience, making our products seamless and easily
 
 ## Roadmap (2023-2025)
 
+[![](https://mermaid.ink/img/pako:eNp1klFrwjAQx7_KkYexQYWq7R76JnPCxsqGbg-DvhzJzUbbpCRXnYjffalV2IbeQwj_3P1y_1z2QlpFIhNLNMyFgRAKmWbW1ciQ54PPEL3OmiuCFyvX5CryHuYWVY0N3I7i0XgQlvSuz_QkWVsDr5KhO-vVOVWEnmCiNmgkKZgRcuvIZ6CsoQiGcQcZRzDO_3Ke0XScpFff0LEh50vdeNhqLiHHlXXwTrKEB1s3aHQHxVC8Cdh42GGTCNL_2NbQL-7U1uRZy4Bza2J4_A4kHxIziO9PiCS_6PBEWJBsneYdfDRLh4rgpm9qorBh5COqN5lcNZn26pNhcuZYg9Wljo6m0uum0vOjbzRtAY0KXaxaz-epnU2lXSciEjWFiWsVvsK-qywEl1RTIbKwVeH6QhTmEPKwZbvYGSkydi1Fom26_zLVGBzXIvvCytPhBwzQuUM?type=png)](https://mermaid.live/edit#pako:eNp1klFrwjAQx7_KkYexQYWq7R76JnPCxsqGbg-DvhzJzUbbpCRXnYjffalV2IbeQwj_3P1y_1z2QlpFIhNLNMyFgRAKmWbW1ciQ54PPEL3OmiuCFyvX5CryHuYWVY0N3I7i0XgQlvSuz_QkWVsDr5KhO-vVOVWEnmCiNmgkKZgRcuvIZ6CsoQiGcQcZRzDO_3Ke0XScpFff0LEh50vdeNhqLiHHlXXwTrKEB1s3aHQHxVC8Cdh42GGTCNL_2NbQL-7U1uRZy4Bza2J4_A4kHxIziO9PiCS_6PBEWJBsneYdfDRLh4rgpm9qorBh5COqN5lcNZn26pNhcuZYg9Wljo6m0uum0vOjbzRtAY0KXaxaz-epnU2lXSciEjWFiWsVvsK-qywEl1RTIbKwVeH6QhTmEPKwZbvYGSkydi1Fom26_zLVGBzXIvvCytPhBwzQuUM)
+
+
 **October 2023:** 
 Release advanced features of Lockerless and revamp user experience based on customer feedback.
 
@@ -54,4 +57,26 @@ Review progress and strategies, and adjust the roadmap for the next phase of gro
 
 Note: The Roadmap is subject to change based on market trends, technology advancements, and user feedback. We believe in flexible strategies to keep pace with the ever-evolving tech landscape.
 
+
+
+---
+
+
+```mermaid
+gantt
+    dateFormat MM-YYYY
+    title Lockerless Roadmap (2023-2025)
+    section Oct 2023
+    Release Advanced Features: done, 10-2023, 3M
+    section Jan 2024
+    Partnerships with Major Tech Companies: active, 01-2024, 5M
+    section June 2024
+    Domestic Market Expansion: 06-2024, 4M
+    section Oct 2024
+    Security Upgrade & Tech Adaptation: 10-2024, 3M
+    section Jan 2025
+    International Market Expansion: 01-2025, 5M
+    section June 2025
+    Review and Adjust Roadmap: 06-2025, 3M
+```
 
