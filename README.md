@@ -1,6 +1,45 @@
 # [lockerless.com - your secret box](https://www.lockerless.com/)
 
-Lockerless is Trusted single-use box for encrypted messages. the motto is: "Your secret box"
+
+Lockerless is Trusted single-use box for encrypted messages. 
+
+## Motto
+
++ "Disposable Safe"
++ "Single-Use Vault"
++ "Your secret box"
+
+
+Considering these impressions, **"Single-Use Vault"** may be the best choice if the emphasis is on strong security and the idea of each message being as secure as valuables in a bank vault. However, if the company wants to stress the temporary and disposable nature of the service more, **"Disposable Safe"** might be a better fit. **"One-Time Safe"** strikes a balance between the two and might be chosen if a compromise between security and disposability is desired. 
+
+## LockerLess?
+
+LockerLess is a user-friendly SaaS platform offering secure, encrypted communication and file exchange, with end-to-end encryption to ensure that messages and attachments can only be accessed by intended recipients. Users can conveniently encrypt their content on any device via a web interface or mobile app, share it through a secure link, and recipients can securely decrypt the message and files in the LockerLess securebox using a decryption key or password.
+
+## How it works?
+LockerLess is a SaaS (Software as a Service) platform designed for secure, encrypted communications with exchange files.
+It provides users with a way to send messages and attachments that are protected with end-to-end encryption, ensuring that only the intended recipients can access and read them. 
+
+Using LockerLess would typically involve either a web-based interface or a mobile app where users can create a message, 
+attach any files if needed, and then encrypt the entire package with a simple "copy-paste/share" mechanism. Here’s how it would work across devices and get back the secure link (url).
+Recipients of the secure link can then access the LockerLess securebox, where they will be able to decrypt the message and download any attachments using a decryption key or a password.
+
+This process ensures that sensitive information remains confidential from the moment it's sent to when it's received.
+
+1. **On a Computer:**
+   - Access the LockerLess web platform.
+   - Write your message and attach files.
+   - Click on "Encrypt" to secure the content.
+   - The service generates a secure link.
+   - Copy the link and paste it into an email, chat, or any other form of communication.
+
+2. **On a Mobile Device:**
+   - Open the LockerLess app.
+   - Enter your message and attach files directly from your device's storage.
+   - Tap "Encrypt" and wait for the service to create a secure, shareable link.
+   - Share the link via SMS, messaging apps, or email using the built-in share options in your device.
+
+
 
 
 ## Mission
@@ -16,6 +55,7 @@ We envision a digitally secure world where every message transferred is encrypte
 
 
 ## Strategy
+
 
 Our strategy involves four major thrusts: 
 
